@@ -1,3 +1,4 @@
+## Virtual AI Camp 2.0 Output
 ## This is my first n8n RAG project.
 
 The first workflow handles ingestion where new files added to Google Drive are automatically downloaded and embedded into a Supabase vector database, while the second workflow handles querying, where the n8n AI Agent searches the vector database to find relevant information and respond to user questions.
