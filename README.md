@@ -9,6 +9,9 @@ The first workflow handles ingestion where new files added to Google Drive are a
 
 <img width="1146" height="396" alt="Screenshot 2026-04-02 105020" src="https://github.com/user-attachments/assets/ebf49543-63e9-4ba2-995a-82b61ff718f0" />
 
+## Create a Google Drive Folder called 0 N8N PROJECT which will be used to store the files.
+<img width="551" height="260" alt="image" src="https://github.com/user-attachments/assets/d3a1b061-066b-4e2e-b0e9-f8480ce7c678" />
+
 ## Steps to Import a JSON file into n8n
 1. Download the JSON file (PIMENTEL N8N RAG PROJECT.json)
 2. Open your n8n dashboard
